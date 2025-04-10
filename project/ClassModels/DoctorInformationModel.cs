@@ -1,13 +1,7 @@
-// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="DoctorInformationModel.cs" company="YourCompany">
-//   Copyright (c) YourCompany. All rights reserved.
-// </copyright>
 // <summary>
 //   This file contains the DoctorInformationModel class, which provides methods for retrieving and computing
 //   information related to doctors.
 // </summary>
-// --------------------------------------------------------------------------------------------------------------------
-
 namespace Project.ClassModels
 {
     using System;
