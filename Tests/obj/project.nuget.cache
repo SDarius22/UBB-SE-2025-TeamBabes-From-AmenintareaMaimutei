@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "GEJAih81KMM=",
+=======
+  "dgSpecHash": "KRh9hIjk9m4=",
+>>>>>>> Stashed changes
   "success": true,
   "projectFilePath": "E:\\UBB-SE-2025-TeamBabes-From-AmenintareaMaimutei\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
