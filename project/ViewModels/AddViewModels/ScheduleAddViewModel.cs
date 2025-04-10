@@ -20,7 +20,7 @@ namespace Project.ViewModels.AddViewModels
     /// <summary>
     /// ViewModel for adding schedules.
     /// </summary>
-    internal class ScheduleAddViewModel : INotifyPropertyChanged
+    public class ScheduleAddViewModel : INotifyPropertyChanged
     {
         /// <summary>
         /// The model for managing schedules.

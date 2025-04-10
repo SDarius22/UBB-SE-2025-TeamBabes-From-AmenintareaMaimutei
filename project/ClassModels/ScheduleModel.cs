@@ -146,7 +146,7 @@ namespace Project.ClassModels
                 return count > 0;
             }
         }
-        
+
         /// <summary>
         /// Function to get a list of all schedules from the database.
         /// </summary>

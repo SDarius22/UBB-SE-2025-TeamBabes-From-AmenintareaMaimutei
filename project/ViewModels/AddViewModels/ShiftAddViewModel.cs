@@ -20,7 +20,7 @@ namespace Project.ViewModels.AddViewModels
     /// <summary>
     /// ViewModel for adding shifts.
     /// </summary>
-    internal class ShiftAddViewModel : INotifyPropertyChanged
+    public class ShiftAddViewModel : INotifyPropertyChanged
     {
         /// <summary>
         /// Initializes a new instance of the <see cref="ShiftAddViewModel"/> class.
