@@ -113,6 +113,7 @@ namespace Project.ViewModels.UpdateViewModels
         /// <returns>True if valid; otherwise, false.</returns>
         private bool ValidateDrug(Drug drug)
         {
+
             if (!System.Text.RegularExpressions.Regex.IsMatch(drug.Name, @"^[a-zA-Z0-9 ]*$"))
             {
                 this.ErrorMessage = "Name should contain only alphanumeric characters";

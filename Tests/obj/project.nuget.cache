@@ -1,22 +1,6 @@
 {
   "version": 2,
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   "dgSpecHash": "GEJAih81KMM=",
-=======
-  "dgSpecHash": "KRh9hIjk9m4=",
->>>>>>> Stashed changes
-=======
-  "dgSpecHash": "KRh9hIjk9m4=",
->>>>>>> Stashed changes
-=======
-  "dgSpecHash": "KRh9hIjk9m4=",
->>>>>>> Stashed changes
-=======
-  "dgSpecHash": "KRh9hIjk9m4=",
->>>>>>> Stashed changes
   "success": true,
   "projectFilePath": "E:\\UBB-SE-2025-TeamBabes-From-AmenintareaMaimutei\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
@@ -84,5 +68,12 @@
     "C:\\Users\\sampa\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.14\\microsoft.netcore.app.runtime.win-x64.8.0.14.nupkg.sha512",
     "C:\\Users\\sampa\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.14\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.14.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\UBB-SE-2025-TeamBabes-From-AmenintareaMaimutei\\Tests\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

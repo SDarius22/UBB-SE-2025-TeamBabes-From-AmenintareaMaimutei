@@ -14,23 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d09bff7632288368dcd77923e0a0b5e795600b1")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41eac0abf600d892dd072cd234c0b4411a17f783")]
->>>>>>> Stashed changes
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41eac0abf600d892dd072cd234c0b4411a17f783")]
->>>>>>> Stashed changes
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41eac0abf600d892dd072cd234c0b4411a17f783")]
->>>>>>> Stashed changes
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41eac0abf600d892dd072cd234c0b4411a17f783")]
->>>>>>> Stashed changes
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd8bebd1c06e2810cde28fdc10baa62778c39151")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

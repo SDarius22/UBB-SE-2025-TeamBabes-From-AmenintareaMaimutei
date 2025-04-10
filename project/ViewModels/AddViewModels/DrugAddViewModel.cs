@@ -20,7 +20,7 @@ namespace Project.ViewModels.AddViewModels
     /// <summary>
     /// ViewModel for adding a new drug.
     /// </summary>
-    internal class DrugAddViewModel : INotifyPropertyChanged
+    public class DrugAddViewModel : INotifyPropertyChanged
     {
         private readonly DrugModel drugModel = new DrugModel();
         private string name = string.Empty;
