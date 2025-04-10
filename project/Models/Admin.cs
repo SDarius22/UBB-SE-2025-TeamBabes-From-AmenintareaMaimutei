@@ -1,20 +1,31 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Project.Models
+﻿namespace Project.Models
 {
+    using System;
+
+    /// <summary>
+    /// Represents an administrator with an ID and associated user ID.
+    /// </summary>
     public class Admin
     {
-        public int AdminID { get; set; }
-        public int UserID { get; set; }
-
+        /// <summary>
+        /// Initializes a new instance of the <see cref="Admin"/> class.
+        /// </summary>
+        /// <param name="adminId">The unique identifier for the admin.</param>
+        /// <param name="userId">The unique identifier for the associated user.</param>
         public Admin(int adminId, int userId)
         {
-            AdminID = adminId;
-            UserID = userId;
+            this.AdminID = adminId;
+            this.UserID = userId;
         }
+
+        /// <summary>
+        /// Gets or sets the unique identifier for the admin.
+        /// </summary>
+        public int AdminID { get; set; }
+
+        /// <summary>
+        /// Gets or sets the unique identifier for the associated user.
+        /// </summary>
+        public int UserID { get; set; }
     }
 }
