@@ -23,6 +23,9 @@ namespace Project.ViewModels.AddViewModels
     /// ViewModel for adding a new drug.
     /// </summary>
     public class DrugAddViewModel : INotifyPropertyChanged
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     {
         private readonly DrugModel _drugModel = new DrugModel();
