@@ -9,23 +9,6 @@
 
 namespace Project.ViewModels.AddViewModels
 {
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-    using System;
-    using System.Collections.ObjectModel;
-    using System.ComponentModel;
-    using System.Windows.Input;
-    using Project.ClassModels;
-    using Project.Models;
-    using Project.Utils;
-
-    /// <summary>
-    /// ViewModel for adding a new drug.
-    /// </summary>
->>>>>>> f90fb830f3c66dcbf2f89141884b998fe10e6fbb
-    internal class DrugAddViewModel : INotifyPropertyChanged
-=======
     using System;
     using System.Collections.ObjectModel;
     using System.ComponentModel;
@@ -38,7 +21,6 @@ namespace Project.ViewModels.AddViewModels
     /// ViewModel for adding a new drug.
     /// </summary>
     public class DrugAddViewModel : INotifyPropertyChanged
->>>>>>> Stashed changes
     {
         private readonly DrugModel drugModel = new DrugModel();
         private string name = string.Empty;
