@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 namespace Project.Models
 {
     /// <summary>
-    /// Gets and Sets the Admin.
+    /// Gets and Sets the Admin. 
     /// </summary>
     public class Admin
     {
