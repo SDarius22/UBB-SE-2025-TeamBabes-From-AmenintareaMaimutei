@@ -217,7 +217,7 @@ public class TestEquipmentModel
                 {
                     command.ExecuteNonQuery();
                 }
-
+                
                 using (var command = new SqlCommand(DatabaseHelper.GetInsertDataProcedureSql(), connection))
                 {
                     command.ExecuteNonQuery();

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <DataCollectionRunSettings>
+    <DataCollectors>
+      <DataCollector friendlyName="XPlat code coverage">
+        <Configuration>
+          <Format>lcov</Format> <!-- or cobertura/json/opencover -->
+          <Include>
+            <ModulePath>.*Project.dll</ModulePath>
+          </Include>
+          <ExcludeByFile>
+            <File>**/Migrations/*</File>
+          </ExcludeByFile>
+        </Configuration>
+      </DataCollector>
+    </DataCollectors>
+  </DataCollectionRunSettings>
+</RunSettings>
